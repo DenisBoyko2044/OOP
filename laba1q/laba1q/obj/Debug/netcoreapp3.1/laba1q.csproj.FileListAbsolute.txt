@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.AssemblyInfo.cs
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\laba1q\laba1q\bin\Debug\netcoreapp3.1\laba1q.exe
+C:\Users\Денис\source\repos\laba1q\laba1q\bin\Debug\netcoreapp3.1\laba1q.deps.json
+C:\Users\Денис\source\repos\laba1q\laba1q\bin\Debug\netcoreapp3.1\laba1q.runtimeconfig.json
+C:\Users\Денис\source\repos\laba1q\laba1q\bin\Debug\netcoreapp3.1\laba1q.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\laba1q\laba1q\bin\Debug\netcoreapp3.1\laba1q.dll
+C:\Users\Денис\source\repos\laba1q\laba1q\bin\Debug\netcoreapp3.1\laba1q.pdb
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.dll
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.pdb
+C:\Users\Денис\source\repos\laba1q\laba1q\obj\Debug\netcoreapp3.1\laba1q.genruntimeconfig.cache
