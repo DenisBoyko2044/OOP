@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\140\140\bin\Debug\140.exe.config
+C:\Users\Soratik\source\repos\140\140\bin\Debug\140.exe
+C:\Users\Soratik\source\repos\140\140\bin\Debug\140.pdb
+C:\Users\Soratik\source\repos\140\140\obj\Debug\140.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\140\140\obj\Debug\140.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\140\140\obj\Debug\140.exe
+C:\Users\Soratik\source\repos\140\140\obj\Debug\140.pdb

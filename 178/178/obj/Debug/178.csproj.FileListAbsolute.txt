@@ -1,0 +1,6 @@
+C:\Users\Soratik\source\repos\178\178\bin\Debug\178.exe.config
+C:\Users\Soratik\source\repos\178\178\bin\Debug\178.exe
+C:\Users\Soratik\source\repos\178\178\bin\Debug\178.pdb
+C:\Users\Soratik\source\repos\178\178\obj\Debug\178.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\178\178\obj\Debug\178.exe
+C:\Users\Soratik\source\repos\178\178\obj\Debug\178.pdb
