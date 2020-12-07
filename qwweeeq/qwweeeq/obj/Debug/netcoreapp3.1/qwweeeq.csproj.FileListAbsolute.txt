@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\bin\Debug\netcoreapp3.1\qwweeeq.exe
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\bin\Debug\netcoreapp3.1\qwweeeq.deps.json
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\bin\Debug\netcoreapp3.1\qwweeeq.runtimeconfig.json
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\bin\Debug\netcoreapp3.1\qwweeeq.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\bin\Debug\netcoreapp3.1\qwweeeq.dll
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\bin\Debug\netcoreapp3.1\qwweeeq.pdb
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.AssemblyInfo.cs
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.dll
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.pdb
+C:\Users\Денис\source\repos\qwweeeq\qwweeeq\obj\Debug\netcoreapp3.1\qwweeeq.genruntimeconfig.cache
