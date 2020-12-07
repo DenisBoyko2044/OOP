@@ -1,0 +1,6 @@
+C:\Users\Soratik\source\repos\65\65\bin\Debug\65.exe.config
+C:\Users\Soratik\source\repos\65\65\bin\Debug\65.exe
+C:\Users\Soratik\source\repos\65\65\bin\Debug\65.pdb
+C:\Users\Soratik\source\repos\65\65\obj\Debug\65.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\65\65\obj\Debug\65.exe
+C:\Users\Soratik\source\repos\65\65\obj\Debug\65.pdb

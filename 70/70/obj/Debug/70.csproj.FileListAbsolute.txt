@@ -1,0 +1,7 @@
+D:\projects\70\70\bin\Debug\70.exe.config
+D:\projects\70\70\bin\Debug\70.exe
+D:\projects\70\70\bin\Debug\70.pdb
+D:\projects\70\70\obj\Debug\70.csprojAssemblyReference.cache
+D:\projects\70\70\obj\Debug\70.csproj.CoreCompileInputs.cache
+D:\projects\70\70\obj\Debug\70.exe
+D:\projects\70\70\obj\Debug\70.pdb
