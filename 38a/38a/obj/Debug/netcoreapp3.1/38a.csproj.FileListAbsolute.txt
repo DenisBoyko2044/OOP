@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\38a\38a\bin\Debug\netcoreapp3.1\38a.exe
+C:\Users\Денис\source\repos\38a\38a\bin\Debug\netcoreapp3.1\38a.deps.json
+C:\Users\Денис\source\repos\38a\38a\bin\Debug\netcoreapp3.1\38a.runtimeconfig.json
+C:\Users\Денис\source\repos\38a\38a\bin\Debug\netcoreapp3.1\38a.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\38a\38a\bin\Debug\netcoreapp3.1\38a.dll
+C:\Users\Денис\source\repos\38a\38a\bin\Debug\netcoreapp3.1\38a.pdb
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.AssemblyInfo.cs
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.dll
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.pdb
+C:\Users\Денис\source\repos\38a\38a\obj\Debug\netcoreapp3.1\38a.genruntimeconfig.cache
