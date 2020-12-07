@@ -1,0 +1,6 @@
+D:\projects\63\63\obj\Debug\63.csproj.CoreCompileInputs.cache
+D:\projects\63\63\bin\Debug\63.exe.config
+D:\projects\63\63\bin\Debug\63.exe
+D:\projects\63\63\bin\Debug\63.pdb
+D:\projects\63\63\obj\Debug\63.exe
+D:\projects\63\63\obj\Debug\63.pdb

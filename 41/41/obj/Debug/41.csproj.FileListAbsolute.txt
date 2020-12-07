@@ -1,0 +1,6 @@
+C:\Users\Soratik\source\repos\41\41\bin\Debug\41.exe.config
+C:\Users\Soratik\source\repos\41\41\bin\Debug\41.exe
+C:\Users\Soratik\source\repos\41\41\bin\Debug\41.pdb
+C:\Users\Soratik\source\repos\41\41\obj\Debug\41.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\41\41\obj\Debug\41.exe
+C:\Users\Soratik\source\repos\41\41\obj\Debug\41.pdb
