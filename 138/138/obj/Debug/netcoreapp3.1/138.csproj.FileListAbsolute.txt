@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\138\138\bin\Debug\netcoreapp3.1\138.exe
+C:\Users\Денис\source\repos\138\138\bin\Debug\netcoreapp3.1\138.deps.json
+C:\Users\Денис\source\repos\138\138\bin\Debug\netcoreapp3.1\138.runtimeconfig.json
+C:\Users\Денис\source\repos\138\138\bin\Debug\netcoreapp3.1\138.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\138\138\bin\Debug\netcoreapp3.1\138.dll
+C:\Users\Денис\source\repos\138\138\bin\Debug\netcoreapp3.1\138.pdb
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.AssemblyInfo.cs
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.dll
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.pdb
+C:\Users\Денис\source\repos\138\138\obj\Debug\netcoreapp3.1\138.genruntimeconfig.cache

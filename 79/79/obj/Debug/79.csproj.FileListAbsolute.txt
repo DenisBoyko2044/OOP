@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\79\79\obj\Debug\79.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\79\79\bin\Debug\79.exe.config
+C:\Users\Soratik\source\repos\79\79\bin\Debug\79.exe
+C:\Users\Soratik\source\repos\79\79\bin\Debug\79.pdb
+C:\Users\Soratik\source\repos\79\79\obj\Debug\79.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\79\79\obj\Debug\79.exe
+C:\Users\Soratik\source\repos\79\79\obj\Debug\79.pdb
