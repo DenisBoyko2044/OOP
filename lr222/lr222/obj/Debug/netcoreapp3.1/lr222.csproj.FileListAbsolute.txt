@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\lr222\lr222\bin\Debug\netcoreapp3.1\lr222.exe
+C:\Users\Денис\source\repos\lr222\lr222\bin\Debug\netcoreapp3.1\lr222.deps.json
+C:\Users\Денис\source\repos\lr222\lr222\bin\Debug\netcoreapp3.1\lr222.runtimeconfig.json
+C:\Users\Денис\source\repos\lr222\lr222\bin\Debug\netcoreapp3.1\lr222.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\lr222\lr222\bin\Debug\netcoreapp3.1\lr222.dll
+C:\Users\Денис\source\repos\lr222\lr222\bin\Debug\netcoreapp3.1\lr222.pdb
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.AssemblyInfo.cs
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.dll
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.pdb
+C:\Users\Денис\source\repos\lr222\lr222\obj\Debug\netcoreapp3.1\lr222.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\lr22\lr22\bin\Debug\netcoreapp3.1\lr22.exe
+C:\Users\Денис\source\repos\lr22\lr22\bin\Debug\netcoreapp3.1\lr22.deps.json
+C:\Users\Денис\source\repos\lr22\lr22\bin\Debug\netcoreapp3.1\lr22.runtimeconfig.json
+C:\Users\Денис\source\repos\lr22\lr22\bin\Debug\netcoreapp3.1\lr22.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\lr22\lr22\bin\Debug\netcoreapp3.1\lr22.dll
+C:\Users\Денис\source\repos\lr22\lr22\bin\Debug\netcoreapp3.1\lr22.pdb
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.AssemblyInfo.cs
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.dll
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.pdb
+C:\Users\Денис\source\repos\lr22\lr22\obj\Debug\netcoreapp3.1\lr22.genruntimeconfig.cache
