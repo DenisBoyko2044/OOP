@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\80b\80b\bin\Debug\netcoreapp3.1\80b.exe
+C:\Users\Денис\source\repos\80b\80b\bin\Debug\netcoreapp3.1\80b.deps.json
+C:\Users\Денис\source\repos\80b\80b\bin\Debug\netcoreapp3.1\80b.runtimeconfig.json
+C:\Users\Денис\source\repos\80b\80b\bin\Debug\netcoreapp3.1\80b.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\80b\80b\bin\Debug\netcoreapp3.1\80b.dll
+C:\Users\Денис\source\repos\80b\80b\bin\Debug\netcoreapp3.1\80b.pdb
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.AssemblyInfo.cs
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.dll
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.pdb
+C:\Users\Денис\source\repos\80b\80b\obj\Debug\netcoreapp3.1\80b.genruntimeconfig.cache
