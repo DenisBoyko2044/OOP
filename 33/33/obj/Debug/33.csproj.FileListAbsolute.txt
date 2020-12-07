@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\33\33\bin\Debug\33.exe.config
+C:\Users\Soratik\source\repos\33\33\bin\Debug\33.exe
+C:\Users\Soratik\source\repos\33\33\bin\Debug\33.pdb
+C:\Users\Soratik\source\repos\33\33\obj\Debug\33.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\33\33\obj\Debug\33.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\33\33\obj\Debug\33.exe
+C:\Users\Soratik\source\repos\33\33\obj\Debug\33.pdb
