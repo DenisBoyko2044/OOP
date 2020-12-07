@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.AssemblyInfo.cs
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\40\40\bin\Debug\netcoreapp3.1\40.exe
+C:\Users\Денис\source\repos\40\40\bin\Debug\netcoreapp3.1\40.deps.json
+C:\Users\Денис\source\repos\40\40\bin\Debug\netcoreapp3.1\40.runtimeconfig.json
+C:\Users\Денис\source\repos\40\40\bin\Debug\netcoreapp3.1\40.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\40\40\bin\Debug\netcoreapp3.1\40.dll
+C:\Users\Денис\source\repos\40\40\bin\Debug\netcoreapp3.1\40.pdb
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.dll
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.pdb
+C:\Users\Денис\source\repos\40\40\obj\Debug\netcoreapp3.1\40.genruntimeconfig.cache
