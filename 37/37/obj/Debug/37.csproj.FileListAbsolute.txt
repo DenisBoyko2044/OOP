@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\37\37\bin\Debug\37.exe.config
+C:\Users\Soratik\source\repos\37\37\bin\Debug\37.exe
+C:\Users\Soratik\source\repos\37\37\bin\Debug\37.pdb
+C:\Users\Soratik\source\repos\37\37\obj\Debug\37.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\37\37\obj\Debug\37.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\37\37\obj\Debug\37.exe
+C:\Users\Soratik\source\repos\37\37\obj\Debug\37.pdb
