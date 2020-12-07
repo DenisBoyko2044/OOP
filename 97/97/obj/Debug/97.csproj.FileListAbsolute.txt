@@ -1,0 +1,7 @@
+D:\projects\97\97\bin\Debug\97.exe.config
+D:\projects\97\97\bin\Debug\97.exe
+D:\projects\97\97\bin\Debug\97.pdb
+D:\projects\97\97\obj\Debug\97.csprojAssemblyReference.cache
+D:\projects\97\97\obj\Debug\97.csproj.CoreCompileInputs.cache
+D:\projects\97\97\obj\Debug\97.exe
+D:\projects\97\97\obj\Debug\97.pdb

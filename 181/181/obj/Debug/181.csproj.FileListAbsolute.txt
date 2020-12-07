@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\181\181\bin\Debug\181.exe.config
+C:\Users\Soratik\source\repos\181\181\bin\Debug\181.exe
+C:\Users\Soratik\source\repos\181\181\bin\Debug\181.pdb
+C:\Users\Soratik\source\repos\181\181\obj\Debug\181.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\181\181\obj\Debug\181.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\181\181\obj\Debug\181.exe
+C:\Users\Soratik\source\repos\181\181\obj\Debug\181.pdb

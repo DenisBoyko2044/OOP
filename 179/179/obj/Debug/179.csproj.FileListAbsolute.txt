@@ -1,0 +1,7 @@
+C:\Users\Soratik\source\repos\179\179\bin\Debug\179.exe.config
+C:\Users\Soratik\source\repos\179\179\bin\Debug\179.exe
+C:\Users\Soratik\source\repos\179\179\bin\Debug\179.pdb
+C:\Users\Soratik\source\repos\179\179\obj\Debug\179.csprojAssemblyReference.cache
+C:\Users\Soratik\source\repos\179\179\obj\Debug\179.csproj.CoreCompileInputs.cache
+C:\Users\Soratik\source\repos\179\179\obj\Debug\179.exe
+C:\Users\Soratik\source\repos\179\179\obj\Debug\179.pdb

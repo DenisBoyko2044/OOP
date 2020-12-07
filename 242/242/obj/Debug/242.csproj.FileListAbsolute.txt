@@ -1,0 +1,7 @@
+D:\projects\242\242\obj\Debug\242.csprojAssemblyReference.cache
+D:\projects\242\242\obj\Debug\242.csproj.CoreCompileInputs.cache
+D:\projects\242\242\bin\Debug\242.exe.config
+D:\projects\242\242\bin\Debug\242.exe
+D:\projects\242\242\bin\Debug\242.pdb
+D:\projects\242\242\obj\Debug\242.exe
+D:\projects\242\242\obj\Debug\242.pdb
