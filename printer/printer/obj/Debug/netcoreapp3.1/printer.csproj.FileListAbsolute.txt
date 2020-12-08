@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\printer\printer\bin\Debug\netcoreapp3.1\printer.exe
+C:\Users\Денис\source\repos\printer\printer\bin\Debug\netcoreapp3.1\printer.deps.json
+C:\Users\Денис\source\repos\printer\printer\bin\Debug\netcoreapp3.1\printer.runtimeconfig.json
+C:\Users\Денис\source\repos\printer\printer\bin\Debug\netcoreapp3.1\printer.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\printer\printer\bin\Debug\netcoreapp3.1\printer.dll
+C:\Users\Денис\source\repos\printer\printer\bin\Debug\netcoreapp3.1\printer.pdb
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.AssemblyInfo.cs
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.dll
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.pdb
+C:\Users\Денис\source\repos\printer\printer\obj\Debug\netcoreapp3.1\printer.genruntimeconfig.cache
